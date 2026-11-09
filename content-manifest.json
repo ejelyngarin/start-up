@@ -1,0 +1,104 @@
+{
+  "project": "START-UP Collaborative Technology and Arts Portfolio",
+  "tagline": "Five Minds. Different Specializations. One Creative Vision.",
+  "theme": {
+    "deepNavy": "#172C46",
+    "slateBlue": "#52677D",
+    "mutedGold": "#C5A46D",
+    "ivory": "#F7F7F3"
+  },
+  "logo": "assets/images/logo.jpg",
+  "members": [
+    {
+      "id": "cyjaye",
+      "fullName": "CyJaye Arellano Anas",
+      "preferredName": "Anas CyJaye",
+      "teamRole": "UI / Visual Design Lead",
+      "photo": "assets/images/cyjaye-profile.png",
+      "professionalLinks": [
+        {
+          "label": "Personal portfolio",
+          "url": "https://cyjayearellanoanas.com"
+        }
+      ]
+    },
+    {
+      "id": "ejelyn",
+      "fullName": "Ejelyn C. Garin",
+      "preferredName": "Jen",
+      "teamRole": "Content and Research Lead",
+      "photo": "assets/images/ejelyn-profile.png",
+      "professionalLinks": [
+        {
+          "label": "Professional Portfolio",
+          "url": "https://www.ejelyngarin.work.gd"
+        },
+        {
+          "label": "Substack — JENPREFERSTOYOU",
+          "url": "https://substack.com/@jenpreferstoyou/posts"
+        }
+      ]
+    },
+    {
+      "id": "kim",
+      "fullName": "Kimberly M. Completo",
+      "preferredName": "Kim",
+      "teamRole": "Development Lead",
+      "photo": "assets/images/kim-profile.png",
+      "professionalLinks": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/kimberlycompleto"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/kimberly-completo"
+        },
+        {
+          "label": "Personal portfolio",
+          "url": "https://kimberlycompleto.dev"
+        }
+      ]
+    },
+    {
+      "id": "shadin",
+      "fullName": "Shadin M. Calatan",
+      "preferredName": "Shadin",
+      "teamRole": "Project Coordinator",
+      "photo": "assets/images/shadin-profile.png",
+      "professionalLinks": []
+    },
+    {
+      "id": "zjay",
+      "fullName": "Zadery Jay Joseph G. Dangayo",
+      "preferredName": "Zjay Dangayo",
+      "teamRole": "Testing and Documentation Lead",
+      "photo": "assets/images/zjay-profile.png",
+      "professionalLinks": []
+    }
+  ],
+  "websitePages": [
+    "Home",
+    "About START-UP",
+    "Members Directory",
+    "Five individual member profiles",
+    "Team Showcase",
+    "Contact"
+  ],
+  "profileSections": [
+    "Introduction",
+    "About Me",
+    "Education",
+    "Skills & Tools",
+    "Organizations & Activities",
+    "Achievements & Recognition",
+    "Projects & Work",
+    "Interests & Career Goals",
+    "Professional Links"
+  ],
+  "publishingNotes": [
+    "Blank or incomplete profile fields are omitted.",
+    "Personal phone numbers, private contact details, and home addresses are not published.",
+    "The latest individual portfolio ZIP is the source of profile photos and content."
+  ]
+}
